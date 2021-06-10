@@ -1,4 +1,5 @@
 # OPC
+Différents projets réaliser lors de la formation Data Analyst.
 
 P6 Analysez les ventes d'une librairie avec Python
 - Analyser des séries temporelles
