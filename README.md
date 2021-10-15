@@ -1,6 +1,13 @@
 # OPC
 Différents projets réaliser lors de la formation Data Analyst.
 
+P3 Créez et utilisez une base de données immobilière avec SQL
+- Créer le schéma d'une base de données
+- Mettre à jour un catalogue de données
+- Créer des tables dans une base de données
+- Charger des données dans une base de données
+- Effectuer des requêtes SQL pour répondre à une problématique métier
+
 P4 Réalisez une étude de santé publique avec Python
 - Utiliser des librairies spécialisées pour les traitements data
 - Manipuler des DataFrames
