@@ -22,7 +22,6 @@ Pars des données de la FAO (Food and Agriculture Organization) que je te mets e
 Pour la partie analyse, dans un premier temps j’aimerais que tu testes la classification ascendante hiérarchique, avec un dendrogramme comme visualisation. Ensuite tu pourras utiliser la méthode des k-means, afin d’affiner l’analyse et comparer les résultats des deux méthodes de clustering. N'hésite pas à prendre le temps d’analyser les centroïdes de tes classes. Tu peux également réaliser une ACP afin de visualiser les résultats de ton analyse, comprendre les groupes, les liens entre les variables, les liens entre les individus...
 
 Voici ce que j’attends de toi :
-
 un notebook Jupyter ou un fichier R avec tes analyses ;
 une heatmap avec les croisements entre les clusters de pays et les différentes variables (en format image), afin que je puisse tout de suite me faire une idée des différents groupes que tu auras définis. 
 Bon courage ! :)
