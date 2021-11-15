@@ -1,5 +1,6 @@
 # OPC
 Différents projets réaliser lors de la formation Data Analyst.
+Compétences validées:
 
 P3 Créez et utilisez une base de données immobilière avec SQL
 - Créer le schéma d'une base de données
@@ -22,3 +23,13 @@ P6 Analysez les ventes d'une librairie avec Python
 - Analyser des séries temporelles
 - Réaliser une analyse bivariée pour interpréter des données
 - Réaliser un test statistique
+
+P9 Produisez une étude de marché avec R ou Python
+- Explorer des données pour synthétiser des variables
+- Effectuer un clustering simple
+
+P10 Détectez des faux billets avec R ou Python
+- Opérer des classifications automatiques pour partitionner les données
+- Réaliser une régression logistique
+- Réaliser une régression linéaire
+- Réaliser une analyse prédictive
